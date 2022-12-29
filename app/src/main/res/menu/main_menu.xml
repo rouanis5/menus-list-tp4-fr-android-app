@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/liste_simple_item"
+        android:title="@string/liste_simple"/>
+    <item android:id="@+id/liste_personnalisee_item"
+        android:title="@string/liste_personnalisee"/>
+    <item android:title="@string/quitter"/>
+</menu>
